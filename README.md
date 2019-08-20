@@ -1,6 +1,5 @@
 # focus-day-companion
 
-
 ### Difficulty & Time involvement
 3/5, 1 weeks. 3-5 views
 ### User stories
@@ -9,4 +8,4 @@
 * as a user I want to to able to vote on the topics I'm most interested in (as many as I want)
 * as a user I want to see the time and session name
 * as an admin I want to be able to assign a topic to a group (column)
-* as an admin I want to to able to sort/arrange the list of topics within 2 groups (each group has it's own list)
+* as an admin I want to to able to sort/arrange the list of topics using drag and drop within 2 groups  (each group has it's own list)
